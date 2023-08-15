@@ -238,7 +238,7 @@ span{
 
 /**  Hero Section  **/ 
 .hero-section{
-    background-image:url("box13_image.jpg") ;
+    background-image:url("box10_image.jpg") ;
     background-size: cover;
     height: 600px;
     display: flex;

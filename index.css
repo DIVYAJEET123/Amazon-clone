@@ -235,6 +235,10 @@ span{
 .panel p:hover{
     border: 1px solid white;
 }
+.shop-deals p a{
+    color: white;
+    text-decoration: none;
+}
 
 /**  Hero Section  **/ 
 .hero-section{
@@ -305,6 +309,16 @@ span{
 }
 h2{
     font-size: 1.28rem;
+}
+.home-furnishing{
+    height: 300px;
+    position: relative;
+    bottom: 150px;
+    width: 100%;
+    background-color: #e2e7e6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .explore-section{
     background-color: #e2e7e6;
@@ -422,6 +436,7 @@ h2{
 .image{
     padding: 8px 30px 8px 30px;
 }
+
 
 .container{
     background-color: white;

@@ -241,8 +241,12 @@ span{
 }
 
 /**  Hero Section  **/ 
+
 .hero-section{
-    background-image:url("box17_image.jpg") ;
+    text-decoration: none;
+}
+.hero-section{
+    background-image:url("box32_image.jpg") ;
     background-size: cover;
     height: 600px;
     display: flex;
@@ -310,16 +314,11 @@ span{
 h2{
     font-size: 1.28rem;
 }
-.home-furnishing{
-    height: 300px;
-    position: relative;
-    bottom: 150px;
-    width: 100%;
-    background-color: #e2e7e6;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
+
+      
+
+    /*   explore section   */
+
 .explore-section{
     background-color: #e2e7e6;
     display: flex;
@@ -447,6 +446,7 @@ h2{
     margin-top:6px ;
 }
 
+
 /**   Footer   Section  **/
 
 
@@ -460,16 +460,13 @@ h2{
     font-size: 0.85rem;
     position: relative;
     bottom: 100px;
+    text-decoration: none;
+    
 }
 .home:hover{
     background-color: #007185;
 }
 
-
-.home p a{
-    text-decoration: none;
-    color: white;
-}
 
 
 .conclusion{
@@ -625,7 +622,3 @@ ul li{
     height: 100px;
     background-color: #131a22;
 }
-
-
-
-

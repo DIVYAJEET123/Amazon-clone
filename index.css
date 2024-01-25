@@ -176,6 +176,8 @@ span{
     margin-right:12px ;
 }
 .cart1{
+    color: white;
+    text-decoration: none;
     display: flex;
     font-size: 1.7rem;
 }
@@ -232,9 +234,9 @@ span{
     text-decoration: none;
     color: #e2e7e6;
 }
-.panel p:hover{
+/* .panel p:hover{
     border: 1px solid white;
-}
+} */
 .shop-deals p a{
     color: white;
     text-decoration: none;

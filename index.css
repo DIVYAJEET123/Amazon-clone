@@ -527,6 +527,7 @@ ul li{
     height:68px ;
     width: 100px;
     align-self: flex-end;
+    
 }
 .globe{
     color: #cccccc;
@@ -539,6 +540,7 @@ ul li{
     border: 1px solid #e1ddd3;
     border-radius: 3.5px;
     margin-left: 70px;
+
    
 
 }
@@ -590,6 +592,7 @@ ul li{
 }
 .country-name{
         margin-left: 5px;
+        margin-right: 10px;
 }
 
 .copyright{
